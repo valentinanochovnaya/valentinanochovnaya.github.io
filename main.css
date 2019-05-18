@@ -1,0 +1,71 @@
+h4 {
+color: black;
+font-family:'Gloria Hallelujah', monospace;
+text-align: center;
+height: 200px;
+width: 400px;
+}
+
+#banner {
+ background-size: cover;
+  background-position: bottom center;
+  width:100%;
+}
+
+#banner .content h4 {
+ border: 3px solid white;
+  position: static;
+  top: 50px;
+  width: 400px;
+  margin: 0 auto;
+}
+
+h2 {
+font-family:'Cardo', serif;
+letter-spacing: 0.02em;
+text-align: center;
+}
+
+.Vagina p {
+ font-family:'Assistant', cursive;
+ max-width: 1000px;
+ font-weight:200;
+ letter-spacing: 0.1;
+ word-spacing: 0.5em;
+ margin: auto;
+ text-align: justify;
+ 
+ 
+}
+
+#pic { 
+height: 300px;
+float:left;
+margin: 10px;
+}
+
+:link:hover {
+outline: dotted red;
+}
+
+.Converge p {
+ font-family:'Assistant', cursive;
+ max-width: 1000px;
+ font-weight:200;
+ letter-spacing: 0.1;
+ word-spacing: 0.5em;
+ margin: auto;
+ text-align: justify;
+}
+
+#picture {
+height: 300px;
+float:left;
+margin: 10px;
+}
+
+:link {
+color: black;
+}
+
+
